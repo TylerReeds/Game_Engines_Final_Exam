@@ -17,3 +17,7 @@ I also implemented an end goal trigger box and script, that will check if the ti
 I have a UI manager that is an Observer who will listen to the end goal and add and display the correct score based on how many tiles hit the bottom of the scene. 
 
 Overall I was able to add working Observer and working object pooling into the game with all 7 different tile shapes working as well. 
+
+Observer:
+![Observer drawio](https://github.com/user-attachments/assets/176933ed-fd06-4ba2-a02a-8e4138a59010)
+
