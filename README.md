@@ -19,5 +19,6 @@ I have a UI manager that is an Observer who will listen to the end goal and add 
 Overall I was able to add working Observer and working object pooling into the game with all 7 different tile shapes working as well. 
 
 Observer:
+
 ![Observer drawio](https://github.com/user-attachments/assets/176933ed-fd06-4ba2-a02a-8e4138a59010)
 
